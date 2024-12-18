@@ -1,0 +1,7 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\pmsUI.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\D3DCompiler_47_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\PenImc_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\PresentationNative_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\vcruntime140_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\wpfgfx_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsExe_v3\pmsUI.exe

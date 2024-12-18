@@ -1,0 +1,7 @@
+C:\Users\atomi\OneDrive\Desktop\pmsUI.pdb
+C:\Users\atomi\OneDrive\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\PenImc_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\PresentationNative_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\vcruntime140_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\wpfgfx_cor3.dll
+C:\Users\atomi\OneDrive\Desktop\pmsUI.exe

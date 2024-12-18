@@ -1,0 +1,17 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\bin\Release\net8.0-windows\pmsUI.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\bin\Release\net8.0-windows\pmsUI.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\bin\Release\net8.0-windows\pmsUI.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\bin\Release\net8.0-windows\pmsUI.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\bin\Release\net8.0-windows\pmsUI.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.Form1.resources
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.Properties.Resources.resources
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.csproj.GenerateResource.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\refint\pmsUI.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\pmsUI.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Fall24\SWE3313_IntroSWE\GroupProject\GUI_Implementation\pmsUI\pmsUI\obj\Release\net8.0-windows\ref\pmsUI.dll
